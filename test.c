@@ -23,3 +23,10 @@ void main()
 	c=a/b;
 	printf("%d the mult is",c);
 }
+
+	void dummy(int a,int b)
+{
+	int c;
+	c=a/b;
+	printf("%d the mult is",c);
+}
