@@ -17,4 +17,9 @@ void main()
 	c=a+b;
 	printf("%d the mult is",c);
 }
-	
+	void divide(int a,int b)
+{
+	int c;
+	c=a/b;
+	printf("%d the mult is",c);
+}
